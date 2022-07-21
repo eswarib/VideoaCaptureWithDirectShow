@@ -1,0 +1,8 @@
+﻿  VideoCapSample.cpp
+C:\Users\shank\Documents\VideoCapTeguar\VideoCapTeguar\VideoCapSample.cpp(716,16): warning C4477: 'printf' : format string '%ls' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'LPWSTR *'
+C:\Users\shank\Documents\VideoCapTeguar\VideoCapTeguar\VideoCapSample.cpp(471,18): warning C4101: 'pASFWriter': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VideoCapTeguar.vcxproj -> C:\Users\shank\Documents\VideoCapTeguar\x64\Release\VideoCapTeguar.exe
